@@ -1,0 +1,8 @@
+O:\usuario2\Mis Programas\FolderSize\FolderSize\obj\x86\Debug\FolderSize.exe
+O:\usuario2\Mis Programas\FolderSize\FolderSize\obj\x86\Debug\FolderSize.pdb
+O:\usuario2\Mis Programas\FolderSize\FolderSize\bin\Debug\FolderSize.exe
+O:\usuario2\Mis Programas\FolderSize\FolderSize\bin\Debug\FolderSize.pdb
+O:\usuario2\Mis Programas\FolderSize\FolderSize\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+O:\usuario2\Mis Programas\FolderSize\FolderSize\obj\x86\Debug\FolderSize.Properties.Resources.resources
+O:\usuario2\Mis Programas\FolderSize\FolderSize\obj\x86\Debug\FolderSize.csproj.GenerateResource.Cache
+O:\usuario2\Mis Programas\FolderSize\FolderSize\obj\x86\Debug\FolderSize.csprojResolveAssemblyReference.cache
